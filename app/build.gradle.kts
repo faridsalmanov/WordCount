@@ -4,7 +4,7 @@ plugins {
 
 android {
     namespace = "com.example.wordcountapp"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.example.wordcountapp"
