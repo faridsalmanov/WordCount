@@ -1,3 +1,17 @@
+
 <resources>
     <string name="app_name">WordCountApp</string>
+    <string-array name="count_options">
+        <item>Words</item>
+        <item>Characters</item>
+    </string-array>
+    <string name="words">Words</string>
+    <string name="characters">Characters</string>
+    <string name="result">Result: %d</string>
+    <string name="empty_text_warning">The text cannot be empty.</string>
+    <string name="enter_text_hint">Enter your text here</string>
+    <string name="count">Count</string>
+    <string name="enter_text">Word Counter App</string>
+
+
 </resources>
